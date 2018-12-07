@@ -1,0 +1,29 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/chun/chun",
+    "pages/button/button"
+  ],
+  "window": {
+    "defaultTitle": "Demo"
+  },
+  "tabBar": {
+    "textColor": "#000000",
+    "selectedColor": "#49a9ee",
+    "backgroundColor": "#ffffff",
+    "items": [
+      {
+        "pagePath": "pages/index/index",
+        "name": "首页"
+      },
+      {
+        "pagePath": "pages/chun/chun",
+        "name": "我的"
+      },
+      {
+        "pagePath": "pages/button/button",
+        "name": "Button"
+      }
+    ]
+  }
+}
